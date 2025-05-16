@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJ2KGvCkxdk=",
+  "dgSpecHash": "6aSbEQJqoKo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\szymo\\source\\repos\\VinylShopApi\\VinylShopApi\\VinylShopApi.csproj",
+  "projectFilePath": "C:\\Users\\szymo\\source\\repos\\VinylShopService\\VinylShopApi\\VinylShopApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szymo\\source\\repos\\VinylShopApi\\VinylShopApi\\VinylShopApi.csproj": {}
+    "C:\\Users\\szymo\\source\\repos\\VinylShopService\\VinylShopApi\\VinylShopApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szymo\\source\\repos\\VinylShopApi\\VinylShopApi\\VinylShopApi.csproj": {
+    "C:\\Users\\szymo\\source\\repos\\VinylShopService\\VinylShopApi\\VinylShopApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szymo\\source\\repos\\VinylShopApi\\VinylShopApi\\VinylShopApi.csproj",
+        "projectUniqueName": "C:\\Users\\szymo\\source\\repos\\VinylShopService\\VinylShopApi\\VinylShopApi.csproj",
         "projectName": "VinylShopApi",
-        "projectPath": "C:\\Users\\szymo\\source\\repos\\VinylShopApi\\VinylShopApi\\VinylShopApi.csproj",
+        "projectPath": "C:\\Users\\szymo\\source\\repos\\VinylShopService\\VinylShopApi\\VinylShopApi.csproj",
         "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szymo\\source\\repos\\VinylShopApi\\VinylShopApi\\obj\\",
+        "outputPath": "C:\\Users\\szymo\\source\\repos\\VinylShopService\\VinylShopApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
